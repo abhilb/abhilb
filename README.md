@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am working as a "Senior Vision System Developer" at Bundesdruckerei GmbH in München, Germany. 
+
+
+- 🌱 I’m currently learning PyTorch, Docker, Kubernetes, Go and Rust
