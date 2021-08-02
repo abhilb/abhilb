@@ -19,6 +19,8 @@ I am working as a "Senior Vision System Developer" at Bundesdruckerei GmbH in M�
 
 
 - 🌱 I’m currently learning PyTorch, Docker, Kubernetes, Go and Rust
+- 💬 Ask me about Computer Vision, Machine Learning and Deep learning
+- 📫 How to reach me: abhilashbabuj dot gmail dot com
 <div>
 <a>
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=abhilb&show_icons=true&theme=tokyonight" />
