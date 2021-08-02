@@ -20,5 +20,6 @@ I am working as a "Senior Vision System Developer" at Bundesdruckerei GmbH in M�
 
 - 🌱 I’m currently learning PyTorch, Docker, Kubernetes, Go and Rust
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhilb&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilb&theme=tokyonight)
