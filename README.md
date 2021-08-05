@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working as a "Senior Vision System Developer" at Bundesdruckerei GmbH in München, Germany. 
+I am a Computer Vision and Machine Learning Enthusiast. 
 
 
 - 🌱 I’m currently learning PyTorch, Docker, Kubernetes, Go and Rust
