@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Vision and Machine Learning Enthusiast. 
+I am a Computer Vision and Machine Learning enthusiast. 
 
 
 - 🌱 I’m currently learning PyTorch, Docker, Kubernetes, Go and Rust
