@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Vision and Machine Learning enthusiast. 
+I am a Computer Vision and Machine Learning enthusiast.
 
 
-- 🌱 I’m currently learning PyTorch, Docker, Kubernetes, Go and Rust
+- 🌱 I’m am adept at C/C++, Python, Tensorflow, Apache TVM, OpenCV and MVTec Halcon library
+- 🌱 I’m currently learning PyTorch, and Rust
 - 💬 Ask me about Computer Vision, Machine Learning and Deep learning
 - 📫 How to reach me: abhilashbabuj dot gmail dot com
 <div>
