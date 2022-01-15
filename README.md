@@ -27,6 +27,6 @@ I am a Computer Vision and Machine Learning enthusiast.
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=abhilb&show_icons=true&theme=tokyonight" />
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilb&&hide=javascript,html&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilb&&hide=javascript,html,vimscript&theme=tokyonight" />
 </a>
 </div>
