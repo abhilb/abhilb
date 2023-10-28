@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 I am a Computer Vision and Machine Learning enthusiast.
 
@@ -30,3 +30,4 @@ I am a Computer Vision and Machine Learning enthusiast.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilb&&hide=javascript,html,css,Jupyter%20notebook&theme=tokyonight" />
 </a>
 </div>
+-->
